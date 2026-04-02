@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Test for Red 2 Code Comp!
 ---
